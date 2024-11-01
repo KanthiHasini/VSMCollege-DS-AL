@@ -1,0 +1,4 @@
+login
+product list
+add to cart
+wishlist
