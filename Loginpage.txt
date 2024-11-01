@@ -1,0 +1,7 @@
+username
+password
+otp
+ok button
+cancel button
+signin
+signup
